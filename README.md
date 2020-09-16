@@ -1,0 +1,2 @@
+# GithubCommitsExtraction
+This program takes takes the address of a repository with Python code on GitHub, takes the last 50 commits in the master branch, and saves the code changes in them to file (s) in an adequate format. The program also displays statistics for these 50 commits: a list of authors sorted by the number of commits, the author of the largest and smallest in terms of the number of changed commit lines, and a list of files sorted by how often they changed.
