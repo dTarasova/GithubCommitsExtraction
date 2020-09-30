@@ -1,5 +1,5 @@
 # GithubCommitsExtraction
-This program takes takes the address of a repository with Python code on GitHub, takes the selected number of last commits (50 by default) and saves the code changes in them to csv file. 
+This program takes the address of a repository with Python code on GitHub, takes the selected number of last commits (50 by default) and saves the code changes in them to csv file. 
 
 The program also displays statistics for these commits: 
 1) a list of authors sorted by the number of commits
